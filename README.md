@@ -13,6 +13,7 @@ Welcome to my personal portfolio! This website showcases my expertise in **Digit
 - **Projects** – Explore my hands-on cybersecurity and development projects.  
 - **Services** – A showcase of cybersecurity services I provide.  
 - **Projects** – Insights on cybersecurity, digital forensics, and threat intelligence projects currently done.  
+Note: All External Links pointing to the projects under the section are static. Links will be added once I create project documentation on them.
 - **Contact** – Reach out to collaborate or discuss security concerns.  
 
 ---
