@@ -27,12 +27,12 @@ Note: All External Links pointing to the projects under the section are static. 
 
 ## 📂 Folder Structure  
 
-
 /HACKATHON-1
-│── /images       # Images, icons, and media  
+│── /images- Images, icons, and media 
+│──/assets - contains the link to the css
 │-hackathon.css   # the main stylesheet
 │── hackathon.js  #javascript file
-│── hackathon.html# Main portfolio page  
+│── index.html# Main portfolio page  
 │── README.md     # Documentation  
 
 
