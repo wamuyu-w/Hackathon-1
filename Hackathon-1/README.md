@@ -4,7 +4,7 @@
 Welcome to my personal portfolio! This website showcases my expertise in **Digital Forensics, Threat Intelligence and Frontend Development.**  
 
 🚀 **Link to the deployed version:** 
-[Your Portfolio URL]  
+https://sherlockpurple-hackathon1.netlify.app/ 
 
 
 ## 📌 Features  
